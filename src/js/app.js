@@ -1,4 +1,4 @@
-import Validator from './Validator';
+import Team from './Team';
 
-const a = Validator();
+const a = Team();
 console.log(a);
